@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+#include "0-binary_tree_node.c"
 
 /**
  * heap_insert - inserts a new node with a given
